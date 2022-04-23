@@ -8,3 +8,4 @@ edition = "2018"
 
 [dependencies]
 ctrlc = "3.2.1"
+sdl2 = "0.35.2"
